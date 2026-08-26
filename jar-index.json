@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "entries": [
     { "name": "Spigot 1.7.10", "url": "https://www.dropbox.com/s/ktxmmmhk3xvn1hd/spigot-1.7.10.jar?dl=1" },
     { "name": "Spigot 1.8.8", "url": "https://www.dropbox.com/s/y9o86fhln0btjny/spigot-1.8.8.jar?dl=1" },
@@ -16,7 +16,7 @@
     { "name": "Spigot 1.19.4", "url": "https://www.dropbox.com/scl/fi/bmrp1rsh27pp8bmqmu7z7/spigot-1.19.4.jar?rlkey=ugzi2ydhy19gmoj7jwo700dye&st=59o0iivf&dl=1" },
     { "name": "Spigot 1.20.6", "url": "https://www.dropbox.com/scl/fi/c6229z54myto840sepooa/spigot-1.20.6.jar?rlkey=3oh4snm0bhv7rew5hbrad1zya&st=jadtc0je&dl=1" },
     { "name": "Spigot 1.21.5", "url": "https://www.dropbox.com/scl/fi/ab0nuo7q4w0tya72ooc6w/spigot-1.21.5.jar?rlkey=gtgwpxlgnmdr2noqz4wcmeodt&st=9vz7n5u4&dl=1" },
-    { "name": "Paper 1.21.11", "url": "https://www.dropbox.com/scl/fi/4xyban68f4stlkdegsxz5/paper-1.21.11.jar?rlkey=ajiw2ob5f4uljhdcg0txau7y1&st=m6b9czoq&dl=1" },
+    { "name": "Paper 1.21.11", "url": "https://www.dropbox.com/scl/fi/wle3gwwkywxu60h43mora/paper-1.21.11.jar?rlkey=g4ist5tev6qypi7iovjlrq3og&st=bbbwfb7s&dl=1" },
     { "name": "Paper 26.2", "url": "https://www.dropbox.com/scl/fi/s85r0jvaciq5d6zrdwxs1/paper-26.2.jar?rlkey=9v4mysn1joxj474g0aytsopjl&st=xhzd79e6&dl=1" },
     { "name": "Vanilla 1.2.5", "url": "https://www.dropbox.com/s/yf9t7bvm92xqiul/minecraft_server_1.2.5.jar?dl=1" },
     { "name": "Vanilla 1.3.2", "url": "https://www.dropbox.com/s/qta6g1dfv6l5t1t/minecraft_server_1.3.2.jar?dl=1" },
@@ -37,6 +37,7 @@
     { "name": "Vanilla 1.18.2", "url": "https://www.dropbox.com/scl/fi/ieknsnvax6nt2l7nsaarg/minecraft_server_1.18.2.jar?rlkey=7h0jjqd7nnw3uoyjjv7unb6ll&st=cuqpi06r&dl=1" },
     { "name": "Vanilla 1.19.4", "url": "https://www.dropbox.com/scl/fi/2fejrrw9onqe7moasirwq/minecraft_server_1.19.4.jar?rlkey=qhuzq9wuimswpibim9uizvvk4&st=cflomdzb&dl=1" },
     { "name": "Vanilla 1.20.6", "url": "https://www.dropbox.com/scl/fi/436kkhv27w96ehch6z36s/minecraft_server_1.20.6.jar?rlkey=8d124tnju08vimz7q343nh4sj&st=db3iii74&dl=1" },
-    { "name": "Vanilla 1.21.11", "url": "https://www.dropbox.com/scl/fi/lswhjdfac6i9udmwnawie/minecraft_server_1.21.11.jar?rlkey=47gdfgggtra1ctvdkgku8oxd4&st=nl13gsna&dl=1" }
+    { "name": "Vanilla 1.21.11", "url": "https://www.dropbox.com/scl/fi/lswhjdfac6i9udmwnawie/minecraft_server_1.21.11.jar?rlkey=47gdfgggtra1ctvdkgku8oxd4&st=nl13gsna&dl=1" },
+    { "name": "Vanilla 26.2", "url": "https://www.dropbox.com/scl/fi/8qz7d8d7tjz0il0sxxgfg/minecraft_server_26.2.jar?rlkey=t60xvy0jhc8iz6vlhipxowxt6&st=aqny6nrx&dl=1" }
   ]
 }
