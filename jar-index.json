@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "entries": [
     { "name": "Spigot 1.7.10", "url": "https://www.dropbox.com/s/ktxmmmhk3xvn1hd/spigot-1.7.10.jar?dl=1" },
     { "name": "Spigot 1.8.8", "url": "https://www.dropbox.com/s/y9o86fhln0btjny/spigot-1.8.8.jar?dl=1" },
@@ -15,7 +15,6 @@
     { "name": "Spigot 1.18.2", "url": "https://www.dropbox.com/scl/fi/k2dvz8y79hha8ls77qqlc/spigot-1.18.2.jar?rlkey=kauqe3dvgdu8gi5989c2240fi&st=63i93bkc&dl=1" },
     { "name": "Spigot 1.19.4", "url": "https://www.dropbox.com/scl/fi/bmrp1rsh27pp8bmqmu7z7/spigot-1.19.4.jar?rlkey=ugzi2ydhy19gmoj7jwo700dye&st=59o0iivf&dl=1" },
     { "name": "Spigot 1.20.6", "url": "https://www.dropbox.com/scl/fi/c6229z54myto840sepooa/spigot-1.20.6.jar?rlkey=3oh4snm0bhv7rew5hbrad1zya&st=jadtc0je&dl=1" },
-    { "name": "Spigot 1.21.5", "url": "https://www.dropbox.com/scl/fi/ab0nuo7q4w0tya72ooc6w/spigot-1.21.5.jar?rlkey=gtgwpxlgnmdr2noqz4wcmeodt&st=9vz7n5u4&dl=1" },
     { "name": "Paper 1.21.11", "url": "https://www.dropbox.com/scl/fi/wle3gwwkywxu60h43mora/paper-1.21.11.jar?rlkey=g4ist5tev6qypi7iovjlrq3og&st=bbbwfb7s&dl=1" },
     { "name": "Paper 26.2", "url": "https://www.dropbox.com/scl/fi/s85r0jvaciq5d6zrdwxs1/paper-26.2.jar?rlkey=9v4mysn1joxj474g0aytsopjl&st=xhzd79e6&dl=1" },
     { "name": "Vanilla 1.2.5", "url": "https://www.dropbox.com/s/yf9t7bvm92xqiul/minecraft_server_1.2.5.jar?dl=1" },
